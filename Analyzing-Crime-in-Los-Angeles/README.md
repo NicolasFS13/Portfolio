@@ -1,4 +1,4 @@
-Análise da Criminalidade em Los Angeles
+# Análise da Criminalidade em Los Angeles
 # Descrição do Projeto
 
 Este projeto realiza uma Análise Exploratória de Dados (EDA) sobre ocorrências criminais na cidade de Los Angeles, utilizando dados públicos do LAPD.
