@@ -62,13 +62,13 @@ O objetivo é identificar padrões temporais — como horários, períodos do di
 
 - Classificação das ocorrências por período:
 
-- Madrugada
+Madrugada
 
-- Manhã
+Manhã
 
-- Tarde
+Tarde
 
-- Noite
+Noite
 
 - Análise de crimes por dia da semana
 
