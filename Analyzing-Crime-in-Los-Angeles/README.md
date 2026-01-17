@@ -61,13 +61,9 @@ O objetivo é identificar padrões temporais — como horários, períodos do di
 Distribuição de crimes por hora do dia
 
 Classificação das ocorrências por período:
-
 - Madrugada
-
 - Manhã
-
 - Tarde
-
 - Noite
 
 Análise de crimes por dia da semana
