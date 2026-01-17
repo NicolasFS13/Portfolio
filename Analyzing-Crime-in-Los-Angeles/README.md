@@ -1,10 +1,10 @@
-## Análise da Criminalidade em Los Angeles
-# Descrição do Projeto
+# Análise da Criminalidade em Los Angeles
+## Descrição do Projeto
 
 Este projeto realiza uma Análise Exploratória de Dados (EDA) sobre ocorrências criminais na cidade de Los Angeles, utilizando dados públicos do LAPD.
 O objetivo é identificar padrões temporais — como horários, períodos do dia e dias da semana com maior incidência de crimes — para apoiar decisões estratégicas em segurança pública.
 
-# Objetivo
+## Objetivo
 
 Explorar dados históricos de criminalidade para responder perguntas como:
 
@@ -14,7 +14,7 @@ Quais períodos do dia concentram mais ocorrências?
 
 Existem padrões temporais claros que podem apoiar o planejamento operacional?
 
-# Perguntas de Análise
+## Perguntas de Análise
 
 Qual é o horário com maior número de ocorrências criminais?
 
@@ -24,7 +24,7 @@ Quais períodos apresentam maior concentração de crimes?
 
 Há variação relevante por dia da semana?
 
-# Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 Python
 
@@ -42,7 +42,7 @@ Estatística descritiva
 
 Análise exploratória de dados (EDA)
 
-# Metodologia
+## Metodologia
 
 Carregamento dos dados e inspeção inicial
 
@@ -56,7 +56,7 @@ Análise estatística descritiva
 
 Visualização dos resultados para identificação de padrões
 
-# Principais Análises
+## Principais Análises
 
 Distribuição de crimes por hora do dia
 
@@ -74,7 +74,7 @@ Análise de crimes por dia da semana
 
 Identificação de horários e períodos críticos
 
-# Principais Insights
+## Principais Insights
 
 Existem horários específicos com maior concentração de ocorrências
 
