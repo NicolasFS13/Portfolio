@@ -8,7 +8,7 @@ Os projetos apresentados demonstram minha capacidade de trabalhar com dados ao l
 
 - Os projetos deste portfólio abordam diferentes contextos e domínios, como:
 
--Análises exploratórias de dados
+- Análises exploratórias de dados
 
 - Estudos estatísticos aplicados
 
@@ -49,5 +49,5 @@ Os projetos apresentados demonstram minha capacidade de trabalhar com dados ao l
 👤 Autor
 
 Nicolas de Freitas Sodré
-Analista de Dados | Economista
+Analista de Dados | Economista /n
 Foco em Análise de Dados, Business Intelligence e Ciência de Dados
