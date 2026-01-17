@@ -6,84 +6,84 @@ O objetivo é identificar padrões temporais — como horários, períodos do di
 
 ## Objetivo
 
-Explorar dados históricos de criminalidade para responder perguntas como:
+- Explorar dados históricos de criminalidade para responder perguntas como:
 
-Em quais horários ocorrem mais crimes?
+- Em quais horários ocorrem mais crimes?
 
-Quais períodos do dia concentram mais ocorrências?
+- Quais períodos do dia concentram mais ocorrências?
 
-Existem padrões temporais claros que podem apoiar o planejamento operacional?
+- Existem padrões temporais claros que podem apoiar o planejamento operacional?
 
 ## Perguntas de Análise
 
-Qual é o horário com maior número de ocorrências criminais?
+- Qual é o horário com maior número de ocorrências criminais?
 
-Como os crimes se distribuem ao longo do dia?
+- Como os crimes se distribuem ao longo do dia?
 
-Quais períodos apresentam maior concentração de crimes?
+- Quais períodos apresentam maior concentração de crimes?
 
-Há variação relevante por dia da semana?
+- Há variação relevante por dia da semana?
 
 ## Tecnologias Utilizadas
 
-Python
+- Python
 
-Pandas
+- Pandas
 
-NumPy
+- NumPy
 
-Matplotlib
+- Matplotlib
 
-Seaborn
+- Seaborn
 
-Jupyter Notebook
+- Jupyter Notebook
 
-Estatística descritiva
+- Estatística descritiva
 
-Análise exploratória de dados (EDA)
+- Análise exploratória de dados (EDA)
 
 ## Metodologia
 
-Carregamento dos dados e inspeção inicial
+- Carregamento dos dados e inspeção inicial
 
-Limpeza e preparação, com foco em variáveis temporais
+- Limpeza e preparação, com foco em variáveis temporais
 
-Extração do horário da ocorrência
+- Extração do horário da ocorrência
 
-Criação de variáveis derivadas, como período do dia
+- Criação de variáveis derivadas, como período do dia
 
-Análise estatística descritiva
+- Análise estatística descritiva
 
-Visualização dos resultados para identificação de padrões
+- Visualização dos resultados para identificação de padrões
 
 ## Principais Análises
 
-Distribuição de crimes por hora do dia
+- Distribuição de crimes por hora do dia
 
-Classificação das ocorrências por período:
+- Classificação das ocorrências por período:
 
-Madrugada
+- Madrugada
 
-Manhã
+- Manhã
 
-Tarde
+- Tarde
 
-Noite
+- Noite
 
-Análise de crimes por dia da semana
+- Análise de crimes por dia da semana
 
-Identificação de horários e períodos críticos
+- Identificação de horários e períodos críticos
 
 ## Principais Insights
 
-Existem horários específicos com maior concentração de ocorrências
+Existem horários específicos com maior concentração de ocorrências, No intervalo das 12h às 13h, observou-se uma elevação atípica, a qual requer uma investigação mais rigorosa 
 
 Certos períodos do dia apresentam risco significativamente maior
 
 Os padrões temporais identificados podem auxiliar na:
 
-Alocação de efetivo policial
+- Alocação de efetivo policial
 
-Definição de estratégias preventivas
+- Definição de estratégias preventivas
 
-Planejamento de rondas e ações operacionais
+- Planejamento de rondas e ações operacionais
