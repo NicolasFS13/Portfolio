@@ -48,6 +48,6 @@ Os projetos apresentados demonstram minha capacidade de trabalhar com dados ao l
 
 ## Autor
 
- Nicolas de Freitas Sodré
- Analista de Dados | Economista 
- Foco em Análise de Dados, Business Intelligence e Ciência de Dados
+ Nicolas de Freitas Sodré \*
+ Analista de Dados | Economista \*
+ Foco em Análise de Dados, Business Intelligence e Ciência de Dados 
