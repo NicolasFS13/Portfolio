@@ -46,7 +46,7 @@ Os projetos apresentados demonstram minha capacidade de trabalhar com dados ao l
 
 - Evolução contínua em Análise de Dados e Ciência de Dados
 
-👤 Autor
+## Autor
 
 Nicolas de Freitas Sodré
 - Analista de Dados | Economista 
