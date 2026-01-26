@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "SemanticModel",
+    "displayName": "case-study-analyzing-customer-churn"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "62c56147-d19f-43c9-88cb-fb50d9680c77"
+  }
+}
