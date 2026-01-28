@@ -1,53 +1,41 @@
-# Portfólio de Projetos em Dados
+ # Projeto de análise de churn para uma empresa norte-americana
+ 
+## Objetivo 
 
-Este repositório reúne projetos selecionados em Análise de Dados, Ciência de Dados e Business Intelligence, desenvolvidos com foco em aplicações práticas, análise orientada a negócio e comunicação de insights.
+Análise e diagnóstico de churn através da exploração de bases de dados históricas, visando identificar padrões de comportamento dos usuários e determinar as causas raízes do cancelamento de serviços.
 
-Os projetos apresentados demonstram minha capacidade de trabalhar com dados ao longo de todo o processo analítico — desde a limpeza e preparação até a análise, visualização e interpretação dos resultados.
+## Perguntas de análise 
 
-## Sobre os Projetos
+- Qual grupo de clientes tem a maior taxa de churn?
+- Qual tipo de contrato tem a maior taxa de churn?
+- Existem estados norte-americanos claramente mais críticos?
 
-- Os projetos deste portfólio abordam diferentes contextos e domínios, como:
+## Desenvolvimento
 
-- Análises exploratórias de dados
+O primeiro dashboard apresenta uma visão macro da taxa de churn, permitindo o acompanhamento dos indicadores globais de retenção da companhia. Esta etapa da análise permite identificar as regiões em estado de atenção e os principais fatores determinantes que impulsionam a taxa de churn.
 
-- Estudos estatísticos aplicados
+![Print 1](screenshots/das1.png)
 
-- Análises financeiras e comerciais
+A análise verifica uma tendência de fidelização progressiva, onde o risco de churn declina conforme aumenta o tempo de permanência do cliente na base, e revela uma correlação direta entre a idade e a evasão: observa-se um aumento acentuado na taxa de churn no segmento de clientes acima de 60 anos.
 
-- Visualização de dados e dashboards
+![Print 2](screenshots/das2.png)
 
-- Projetos educacionais e sociais
+![Print 3](screenshots/das3.png)
 
-- Cada projeto possui documentação própria, com descrição do problema, abordagem utilizada e principais resultados obtidos.
+![Print 6](screenshots/das6.png)
 
-## Tecnologias e Ferramentas
+As visualizações seguintes aprofundam a análise nas variáveis de serviços contratados e modelos de contrato, correlacionando-as ao mapeamento geográfico e comportamental do churn.
 
-- Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
+![Print 4](screenshots/das4.png)
 
-- SQL (PostgreSQL)
+![Print 5](screenshots/das5.png)
 
-- Power BI
+Evidenciou-se que a baixa eficiência no atendimento ao cliente na Califórnia é um fator determinante para o aumento do churn. 
 
-- Excel
+![Print 7](screenshots/das7.png)
 
-- Estatística aplicada
+## Conclusão 
+- Clientes acima de 60 anos possuem maior propensão ao cancelamento.
+- Contratos de curto prazo apresentam menor taxa de fidelização.
+- A média de atendimento na Califórnia está abaixo dos demais estados, justificando o índice crítico de evasão na região.
 
-- Análise exploratória de dados (EDA)
-
-## Objetivo do Portfólio
-
-- O objetivo deste portfólio é demonstrar:
-
-- Capacidade analítica e pensamento estruturado
-
-- Habilidade em transformar dados em informações úteis
-
-- Organização e boas práticas em projetos de dados
-
-- Evolução contínua em Análise de Dados e Ciência de Dados
-
-### Autor
-
- Nicolas de Freitas Sodré \
- Analista de Dados | Economista \
- Foco em Análise de Dados, Business Intelligence e Ciência de Dados 
