@@ -30,7 +30,7 @@ As visualizações seguintes aprofundam a análise nas variáveis de serviços c
 
 ![Print 5](Screenshots/das5.png)
 
-Evidenciou-se que a baixa eficiência no atendimento ao cliente na Califórnia é um fator determinante para o aumento do churn. 
+A análise indica que a baixa eficiência no atendimento ao cliente na Califórnia é um fator determinante para o aumento do churn.
 
 ![Print 7](Screenshots/das7.png)
 
@@ -39,3 +39,9 @@ Evidenciou-se que a baixa eficiência no atendimento ao cliente na Califórnia �
 - Contratos de curto prazo apresentam menor taxa de fidelização.
 - A média de atendimento na Califórnia está abaixo dos demais estados, justificando o índice crítico de evasão na região.
 
+## Ações recomendadas
+- Criar políticas de retenção específicas para clientes 60+
+- Revisar contratos de curto prazo
+- Auditar processos de atendimento na Califórnia
+
+Ferramentas utilizadas: Power BI, Excel, modelagem de dados, DAX (se aplicável)
