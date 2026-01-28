@@ -14,25 +14,25 @@ Análise e diagnóstico de churn através da exploração de bases de dados hist
 
 O primeiro dashboard apresenta uma visão macro da taxa de churn, permitindo o acompanhamento dos indicadores globais de retenção da companhia. Esta etapa da análise permite identificar as regiões em estado de atenção e os principais fatores determinantes que impulsionam a taxa de churn.
 
-![Print 1](screenshots/das1.png)
+![Print 1](Screenshots/das1.png)
 
 A análise verifica uma tendência de fidelização progressiva, onde o risco de churn declina conforme aumenta o tempo de permanência do cliente na base, e revela uma correlação direta entre a idade e a evasão: observa-se um aumento acentuado na taxa de churn no segmento de clientes acima de 60 anos.
 
-![Print 2](screenshots/das2.png)
+![Print 2](Screenshots/das2.png)
 
-![Print 3](screenshots/das3.png)
+![Print 3](Screenshots/das3.png)
 
-![Print 6](screenshots/das6.png)
+![Print 6](Screenshots/das6.png)
 
 As visualizações seguintes aprofundam a análise nas variáveis de serviços contratados e modelos de contrato, correlacionando-as ao mapeamento geográfico e comportamental do churn.
 
-![Print 4](screenshots/das4.png)
+![Print 4](Screenshots/das4.png)
 
-![Print 5](screenshots/das5.png)
+![Print 5](Screenshots/das5.png)
 
 Evidenciou-se que a baixa eficiência no atendimento ao cliente na Califórnia é um fator determinante para o aumento do churn. 
 
-![Print 7](screenshots/das7.png)
+![Print 7](Screenshots/das7.png)
 
 ## Conclusão 
 - Clientes acima de 60 anos possuem maior propensão ao cancelamento.
